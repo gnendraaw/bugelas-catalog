@@ -1,2 +1,2 @@
 # bugelas
-Simple prototype of Homemade Food and Beverage Catalog
+Simple Flutter prototype of Homemade's Food and Beverage Catalog
